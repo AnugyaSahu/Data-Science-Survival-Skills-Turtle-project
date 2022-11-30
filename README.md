@@ -1,2 +1,2 @@
 # project_ex5
-DSSS exercise5 
+This is a repository generated in the DSSS exercise5.
